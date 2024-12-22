@@ -1,4 +1,4 @@
-<h1>Hi, I am Hamza Maadar</h1>
+<h1>Hi, I'm Hamza Maadar</h1>
 
 <h3 align="center"> A passionate Computer science engineering student from Morocco 💻 🇲🇦 </h3>
 <br/>
