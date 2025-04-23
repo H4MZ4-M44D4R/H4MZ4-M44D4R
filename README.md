@@ -30,5 +30,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,visualstudio,bash,html,css,bootstrap,tailwind,js,ts,react,redux,nodejs,express,php,laravel,java,python,anaconda,r,opencv,jquery,selenium,kubernetes,docker,mysql,mongodb,postgresql,discord,figma,vite,kali,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vim,obsidian,notion,vscode,visualstudio,androidstudio,bash,powershell,jenkins,regex,html,css,bootstrap,tailwind,c,js,ts,react,babel,angular,nginx,redux,nodejs,npm,express,threejs,php,laravel,java,python,anaconda,sklearn,tensorflow,dart,flutter,gradle,r,opencv,jquery,selenium,kubernetes,docker,terraform,mysql,mongodb,firebase,sqlite,postgresql,postman,discord,bots,figma,vite,windows,linux,debian,kali,ubuntu" />
 </p>
