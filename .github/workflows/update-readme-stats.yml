@@ -16,8 +16,8 @@ jobs:
     - name: Generate GitHub Stats images
       run: |
         mkdir -p stats
-        curl -o stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&count_private=true&include_all_commits=true&theme=transparent&hide_border=false&token=${{ secrets.GH_TOKEN }}"
-        curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=false&count_private=true&token=${{ secrets.GH_TOKEN }}"
+        curl -o stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&count_private=true&include_all_commits=true&theme=transparent&hide_border=false&token=${{ secrets.PAT_1  }}"
+        curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=false&count_private=true&token=${{ secrets.PAT_1  }}"
 
     - name: Commit and push if changed
       run: |
