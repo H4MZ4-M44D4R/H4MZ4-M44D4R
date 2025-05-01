@@ -5,7 +5,9 @@
 
 <br/>
 
-- 🔭 I’m currently Learning **Application Developement and Artificial intelligence**
+- 🆕 This is my New **Github Account**.
+
+- 🔭 I’m currently Learning **Application Developement and Artificial intelligence**.
 
 - 🤝 Open to collaborating on **software development projects of any kind**.
 
