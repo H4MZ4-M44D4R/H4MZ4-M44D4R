@@ -5,13 +5,13 @@
 
 <br/>
 
-- 🆕 This is my New **Github Account**.
+- This is my New **Github Account**.
 
-- 🔭 I’m currently Learning **Application Developement and Artificial intelligence**.
+- I’m currently Learning **Application Developement and Artificial intelligence**.
 
-- 🤝 Open to collaborating on **software development projects of any kind**.
+- Open to collaborating on **software development projects of any kind**.
 
-- 🌐 Proficient in **Arabic, English, and French** for speaking, reading, and writing.
+- Proficient in **Arabic, English, and French** for speaking, reading, and writing.
 
 <br/>
 
